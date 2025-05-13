@@ -1,0 +1,2 @@
+class ChequeRequest < ApplicationRecord
+end
